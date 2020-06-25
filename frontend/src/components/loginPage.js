@@ -46,11 +46,6 @@ import Login from "./login";
 
 export default class login extends Component {
 
-    state ={
-        users :[
-            {username:"Admin",passw:"password"}
-        ]
-    }
 
   render() {
     return (
